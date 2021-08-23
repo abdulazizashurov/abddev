@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main-image-abdulaziz{
+    width: 250px;
+    height: 290px;
+    border: 1px solid #5e72e4;
+    border-radius: 10px;
+}
+
+.text{
+    text-align: center;
+}
+
+.ml-lg-5{
+    border-radius: 10px;
+}
+
+.footer{
+    margin-top: 10%;
+}
+
+.image{
+    margin-top: -10%;
+    width: 300px;
+    height: 300px;
+    border-radius: 200px;
+}
+
+.center-img{
+    align-items: center;
+
+}
